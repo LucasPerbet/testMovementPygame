@@ -59,7 +59,7 @@ while run:
                 direction = 4            
                 
         
-        if update_snake > 99:
+        if update_snake >3:
             update_snake = 0
             snake_pos = snake_pos[-1:] + snake_pos[:-1]
         
