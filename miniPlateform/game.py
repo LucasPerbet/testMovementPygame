@@ -1,7 +1,7 @@
 # Constantes globales
 
-WIDTH = 1640
-HEIGHT = 1480
+WIDTH = 1500
+HEIGHT = 792
 SPRITE_WIDTH = 50
 SPRITE_HEIGHT = 50
 
