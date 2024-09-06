@@ -33,7 +33,8 @@ while True:
 
         p.move(right=True)
     
-    
+    if keys[pygame.K_SPACE]:    
+        p.move(up=True)
     
     for event in pygame.event.get():
 
